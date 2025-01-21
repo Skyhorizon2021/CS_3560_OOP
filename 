@@ -1,0 +1,43 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   CRC_HW1/.editorconfig
+#	new file:   CRC_HW1/.idea/.gitignore
+#	new file:   CRC_HW1/.idea/compiler.xml
+#	new file:   CRC_HW1/.idea/encodings.xml
+#	new file:   CRC_HW1/.idea/jarRepositories.xml
+#	new file:   CRC_HW1/.idea/misc.xml
+#	new file:   CRC_HW1/.idea/vcs.xml
+#	new file:   CRC_HW1/pom.xml
+#	new file:   CRC_HW1/src/main/java/com/example/Class.java
+#	new file:   CRC_HW1/src/main/java/com/example/instructor.java
+#	new file:   CRC_HW1/src/main/java/com/example/lecture_halls.java
+#	new file:   CRC_HW1/src/main/java/com/example/school.java
+#	new file:   CRC_HW1/src/main/java/com/example/student.java
+#	new file:   CRC_HW1/target/checkstyle-cachefile
+#	new file:   CRC_HW1/target/checkstyle-checker.xml
+#	new file:   CRC_HW1/target/checkstyle-result.xml
+#	new file:   CRC_HW1/target/classes/com/example/Class.class
+#	new file:   CRC_HW1/target/classes/com/example/instructor.class
+#	new file:   CRC_HW1/target/classes/com/example/lecture_halls.class
+#	new file:   CRC_HW1/target/classes/com/example/school.class
+#	new file:   CRC_HW1/target/classes/com/example/student.class
+#	new file:   UML_HW2/Class Diagram.drawio
+#	new file:   UML_HW2/HW2_Solved.docx
+#	new file:   UML_HW2/HW2_Solved.pdf
+#	new file:   com/CS3560_Loc_Nguyen_HW1.zip
+#	new file:   com/example/Class.html
+#	new file:   com/example/HW1_CRC.drawio.pdf
+#	new file:   com/example/instructor.html
+#	new file:   com/example/lecture_halls.html
+#	new file:   com/example/package-summary.html
+#	new file:   com/example/package-tree.html
+#	new file:   com/example/school.html
+#	new file:   com/example/student.html
+#
