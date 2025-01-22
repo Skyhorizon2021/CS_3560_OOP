@@ -1,0 +1,23 @@
+lw $t0, 0x20($s3)
+add $s0, $s2, $t0
+
+sw $s0, 0x30($s3)
+
+
+e s s s n e 
+
+s s s s n e
+
+n s s s n e
+
+n e s s s n e
+
+w s 
+
+
+e n s s s n      s s e s back w n w n back n s
+    e 
+  
+
+
+
